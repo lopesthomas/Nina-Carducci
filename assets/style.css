@@ -6,9 +6,6 @@ body {
 	font-family: 'Inter';
 	font-style: normal;
 }
-h3 {
-
-}
 h4 {
 	font-size: calc(1.3rem + 0.6vw);
 }
@@ -101,14 +98,6 @@ h5 {
 	width: 80%;
 	font-size: 14px;
 }
-/* #about-me p {
-	width: 80%;
-	font-size: 14px;
-} */
-
-#gallery {
-	/*	min-height: 100vh; */
-}
 .title{
 	text-align: center;
 	padding-block: 2em;
@@ -118,7 +107,7 @@ h5 {
 }
 .nav-pills .nav-link.active-tag, .nav-pills .show > .nav-link {
 	color: #fff;
-	background-color: #BEB45A;
+	background-color: #2a2920;
 	border-radius:0 ;
 }
 
